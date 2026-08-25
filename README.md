@@ -108,3 +108,5 @@ WhatsApp
 Atendimento
     ↓
 Orçamento / contratação
+
+*Status:** Projeto em evolução contínua.
