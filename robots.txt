@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://convites.businesshubsaas.com.br/sitemap.xml
